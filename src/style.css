@@ -1,0 +1,12 @@
+.box {
+    width: 300px;
+    height: 300px;
+    border-radius: 30px;
+    background-color: rgb(154, 230, 205);
+    color: rgb(199, 169, 169);
+    font-size: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto; 
+}
