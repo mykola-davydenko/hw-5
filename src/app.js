@@ -14,7 +14,7 @@ const data = {
 };
 const config = {
     type: 'line',
-    data: data,
+    data: data, 
 };
 const dv = document.getElementById("sales-chart")
 const salesChart = new Chart(dv, config);
